@@ -2,6 +2,12 @@
 Información relacionada a la actividad del curso de estadística básica.
 --------------------------------------------------------------------------
 Base de datos disponible en el archivo cargado. <br />
-Script python [JupyterNotebook] : archivo cargado.
+Script python [JupyterNotebook] : archivo cargado. <br />
+
+----------------------------------------------------------
+
+_Desarrollado por:_
+* Juan David Valencia Toro
+* Juan Diego Alvarez Perdomo
 
 
